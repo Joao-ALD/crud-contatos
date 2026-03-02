@@ -57,3 +57,8 @@ HomeScreen.tsx
 ```bash
 npm start
 ```
+
+
+
+
+ 
